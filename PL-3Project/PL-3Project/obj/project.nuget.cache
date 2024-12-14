@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aKoXZnLQHbw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abdo\\source\\repos\\PL-3Project\\PL-3Project\\PL-3Project.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdo\\.nuget\\packages\\fsharp.core\\9.0.100\\fsharp.core.9.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
